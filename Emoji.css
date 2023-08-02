@@ -1,0 +1,24 @@
+body{
+    
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20220225/pngtree-pile-of-social-media-emoji-network-emoticon-background-image_1035631.jpg);
+}
+.container{
+    
+    width:500px;
+    height:400px;
+    border-radius: 5px;
+    border:3px solid black; 
+    background-image: url(https://st4.depositphotos.com/3591429/25348/v/450/depositphotos_253485930-stock-illustration-social-media-icons-themed-border.jpg);
+    margin:auto;
+    margin-top: 10%;
+}
+h1{
+    margin-top: 30%;
+    color: black;
+    font-style:oblique ;
+}
+input{
+    margin-top: 10px;
+    border:5px solid black;
+}
+
